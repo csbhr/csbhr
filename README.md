@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I will join [Alibaba Group - TAOBAO & TMALL GROUP](https://ali-home.alibaba.com) as an Algorithm Engineer. I received my Ph.D. degree in Computer Science from [Nanjing University of Science and Technology](https://www.njust.edu.cn), and advised by [Prof. Jinshan Pan](https://jspan.github.io). During my doctoral studies, I was a Research Intern at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index), working closely with [Di Kang](https://scholar.google.com.hk/citations?user=2ztThPwAAAAJ&hl=zh-CN) and [Linchao Bao](https://linchaobao.github.io/).
+🌱 I will join [Alibaba Group - Taobao&Tmall Group](https://ali-home.alibaba.com) as an Algorithm Engineer. I received my Ph.D. degree in Computer Science from [Nanjing University of Science and Technology](https://www.njust.edu.cn), and advised by [Prof. Jinshan Pan](https://jspan.github.io). During my doctoral studies, I was a Research Intern at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index), working closely with [Di Kang](https://scholar.google.com.hk/citations?user=2ztThPwAAAAJ&hl=zh-CN) and [Linchao Bao](https://linchaobao.github.io/).
 
 🔭 My research interest includes image/video super-resolution restoration and enhancement, deblurring, dehazing and other restoration tasks. Recently, I am experimenting with face editing, 3D face reconstruction, and related tasks.
 
