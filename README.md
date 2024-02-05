@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Homepage: [https://csbhr.github.io/](https://csbhr.github.io/)
+Homepage: [https://csbhr.github.io](https://csbhr.github.io/)
 
 GoogleScholar: [https://scholar.google.com/citations?user=SBYJ6YoAAAAJ](https://scholar.google.com/citations?user=SBYJ6YoAAAAJ)
 
